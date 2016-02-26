@@ -1,4 +1,4 @@
-# Docker base image for OpenJDK8.
+# Docker base image for OpenJDK7,8.
 FROM alpine:3.3
 MAINTAINER Michael Faille <michael@faille.io>
 
